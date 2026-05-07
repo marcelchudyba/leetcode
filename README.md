@@ -1,7 +1,7 @@
-# Algorytmy i Struktury Danych - LeetCode
+# Algorithms and Data Structures - LeetCode
 
-Tabela z moim progresem w rozwiązywaniu zadań.
+A table tracking my progress in solving problems.
 
-| Numer | Problem | Trudność | Temat | Rozwiązanie |
+| ID | Problem | Difficulty | Topic | Solution |
 |---|---|---|---|---|
 | 0020 | Valid Parentheses | 🟢 Easy | Stack | [C++](./03_stack/0020_valid_parentheses.cpp) |
