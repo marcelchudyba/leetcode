@@ -8,7 +8,7 @@ public:
     bool isValid(string s) {
         
         std::stack<char> opening;
-        std::map<char, char> parentheses;
+        std::unordered_map<char, char> parentheses;
 
         parentheses.insert({')', '('});
         parentheses.insert({']', '['});
