@@ -8,3 +8,4 @@ A table tracking my progress in solving problems.
 | 0001 | Two Sum | 🟢 Easy | Arrays And Hashing | [C++](./01_arrays_and_hashing/0001_two_sum.cpp) |
 | 0217 | Contains Duplicate | 🟢 Easy | Arrays And Hashing | [C++](./01_arrays_and_hashing/0217_contains_duplicate.cpp) |
 | 0242 | Valid Anagram | 🟢 Easy | Arrays And Hashing | [C++](./01_arrays_and_hashing/0242_valid_anagram.cpp) |
+| 0049 | Group Anagrams | 🟡 Medium | Arrays And Hashing | [C++](./01_arrays_and_hashing/0049_group_anagrams.cpp) |
