@@ -10,3 +10,4 @@ A table tracking my progress in solving problems.
 | 0242 | Valid Anagram | 🟢 Easy | Arrays And Hashing | [C++](./01_arrays_and_hashing/0242_valid_anagram.cpp) |
 | 0049 | Group Anagrams | 🟡 Medium | Arrays And Hashing | [C++](./01_arrays_and_hashing/0049_group_anagrams.cpp) |
 | 1929 | Concatenation of Array | 🟢 Easy | Arrays And Hashing | [C++](./01_arrays_and_hashing/1929_concatenation_of_array.cpp) |
+| 0347 | Top K Frequent Elements | 🟡 Medium | Arrays And Hashing | [C++](./01_arrays_and_hashing/0347_top_k_frequent_elements.cpp) |
