@@ -14,3 +14,4 @@ A table tracking my progress in solving problems.
 | 0238 | Product of Array Except Self | 🟡 Medium | Arrays And Hashing | [C++](./01_arrays_and_hashing/0238_product_of_array_except_self.cpp) |
 | 0036 | Valid Sudoku | 🟡 Medium | Arrays And Hashing | [C++](./01_arrays_and_hashing/0036_valid_sudoku.cpp) |
 | 0128 | Longest Consecutive Sequence | 🟡 Medium | Arrays And Hashing | [C++](./01_arrays_and_hashing/0128_longest_consecutive_sequence.cpp) |
+| 0155 | Min Stack | 🟡 Medium | Stack | [C++](./03_stack/0155_min_stack.cpp) |
