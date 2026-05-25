@@ -16,3 +16,4 @@ A table tracking my progress in solving problems.
 | 0128 | Longest Consecutive Sequence | 🟡 Medium | Arrays And Hashing | [C++](./01_arrays_and_hashing/0128_longest_consecutive_sequence.cpp) |
 | 0155 | Min Stack | 🟡 Medium | Stack | [C++](./03_stack/0155_min_stack.cpp) |
 | 0150 | Evaluate Reverse Polish Notation | 🟡 Medium | Stack | [C++](./03_stack/0150_evaluate_reverse_polish_notation.cpp) |
+| 0739 | Daily Temperatures | 🟡 Medium | Stack | [C++](./03_stack/0739_daily_temperatures.cpp) |
